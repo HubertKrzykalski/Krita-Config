@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+
+
+[Colors:Button]
+BackgroundNormal=245,245,245
+ForegroundNormal=0
+
+
+[Colors:Selection]
+BackgroundNormal=184,207,228
+ForegroundNormal=0
+
+
+[Colors:View]
+BackgroundAlternate=245 ,245,245
+BackgroundNormal=230,230,230
+ForegroundLink=40,160,220
+ForegroundNormal=0
+
+
+[Colors:Window]
+BackgroundNormal=240,240,240
+ForegroundNormal=0
+
+
+[General]
+Name=ClipStudio Light
